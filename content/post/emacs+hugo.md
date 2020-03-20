@@ -1,6 +1,6 @@
 +++
-title = "Emacs + ox-hugo 配置总结"
-categories = ["Linux"]
+title = "Emacs ＋ ox-hugo 配置总结"
+categories = ["Emacs"]
 draft = false
 +++
 
